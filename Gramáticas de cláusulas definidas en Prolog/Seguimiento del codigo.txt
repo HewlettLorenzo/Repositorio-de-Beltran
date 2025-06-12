@@ -1,0 +1,26 @@
+phrase(o, [el, empleado, trabaja, un, sueldo]). --> Funciona (4 intentos).
+Rta esperada: false
+
+phrase(o, [el, empleado, trabaja, una, empleada]). --> Funciona (4 intentos)
+Rta esperada: false
+
+phrase(o, [el, empleada, trabaja]). --> Funciona (4 intentos)
+Rta esperada: false
+
+phrase(o, [la, empleada, trabaja]). --> Funciona (6 intentos)
+Rta esperada: true
+
+phrase(o, [los, empleada, sobran, sueldos]). --> Funciona (4 intentos)
+Rta esperada: false
+
+phrase(o, [los, empleados, cobran, sueldos]). --> Funciona (4 intentos)
+Rta esperada: false
+
+phrase(o, [los, empleados, cobran, los, sueldos]). --> Funciona (2 intentos)
+Rta esperada: true
+
+phrase(o(A), [los, empleados, cobran, los, sueldos]). --> Funciona (3 intentos)
+Rta esperada: A- o(sn(det(los), n(empleados)), sv(vt(cobran), sn(det(los), n(sueldos)))).
+
+phrase(o(A), [los, empleados, trabajan, los, sueldos]). --> Funciona (3 intentos)
+Rta esperada: false
