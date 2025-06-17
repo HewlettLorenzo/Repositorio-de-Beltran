@@ -1,0 +1,18 @@
+D:> .\ffmpeg -i C:\Users\Usuario\Downloads\marita3.mp3 -ar 16k -ac 1 marita.wav (No funciona)
+
+C:\Beltrán\Técnicas del lenguaje de procesamiento\Filmina\2-MODELOS Y CLASIFICACION (No funciona)
+
+C:> .\ffmpeg-7.1.1 -i C:\Beltrán\Técnicas del lenguaje de procesamiento\Filmina\2-MODELOS Y CLASIFICACION\AnalisisTextos.mp3 -ar 16k -ac 1 AnalisisTextos.wav (No funciona)
+
+D:> .\ffmpeg-7.1.1 -i C:\Beltrán\Técnicas del lenguaje de procesamiento\Filmina\2-MODELOS Y CLASIFICACION\AnalisisTextos.mp3 -ar 16k -ac 1 AnalisisTextos.wav (No funciona)
+
+C:> .\ffmpeg-7.1.1 -i C:\ffmpeg-7.1.1\AnalisisTextos.mp3 -ar 16k -ac 1 AnalisisTextos.wav (No funciona)
+
+D:> .\ffmpeg-7.1.1 -i D:\ffmpeg-7.1.1\AnalisisTextos.mp3 -ar 16k -ac 1 AnalisisTextos.wav (No funciona)
+
+cd C:\ffmpeg -i "C:\ffmpeg\AnalisisTextos.mp3" -ar 16000 -ac 1 "C:\ffmpeg\AnalisisTextos.wav" (Funcionó)
+
+C:> .\ffmpeg-7.1.1 -i "C:\ffmpeg-7.1.1\AnalisisTextos.mp3" -ar 16000 -ac 1 "C:\ffmpeg-7.1.1\AnalisisTextos.wav" (No funciona)
+
+C:> .\ffmpeg -i AnalisisTextos.mp3 -ar 16000 -ac 1 AnalisisTextos.wav (No funciona)
+
