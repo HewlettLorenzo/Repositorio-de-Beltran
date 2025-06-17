@@ -1,1 +1,0 @@
-La carpeta de Spectogramas contiene un codigo de python mas desarrollado que refleja los spectogramas del audio trabajado. Es solo un extra. 
