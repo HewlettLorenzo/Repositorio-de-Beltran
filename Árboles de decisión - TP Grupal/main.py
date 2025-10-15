@@ -100,5 +100,5 @@ print(f"\nArchivo exportado correctamente como '{archivo_salida}'")
 print("\nCONJUNTO DE DATOS CON PREDICCIONES.")
 print(tabla.head())
 
-# Trabajo hecho por: Gil Lascano Lorenzo, Bayaslian Santiago, Núñez Mauro Nicolás, Buchholz Ariel.  
+# Trabajo hecho por: Gil Lascano Lorenzo, Bayaslian Santiago, Núñez Mauro Nicolás.  
 # Instalar pip para que el codigo funcione: "pip install openpyxl".
