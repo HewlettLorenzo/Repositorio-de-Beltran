@@ -1,0 +1,11 @@
+ID;Proveedor;Número;Mail;Alias;Banco
+1;TechGlobal SA;11-4567-8910;contacto@techglobal.com.ar;techglobal.nacion.ar;Banco Nación
+2;Martín Quiroga - Monotributista;11-3890-2245;mquiroga.redes@gmail.com;mquiroga.galicia.ar;Banco Galicia
+3;GamerZone Distribuciones;11-4789-5566;ventas@gamerzone.com;gamerzone.bbva.ar;Banco BBVA
+4;ServerParts SRL;11-5123-6789;info@serverparts.com.ar;serverparts.santander.ar;Banco Santander
+5;Carolina Méndez - Monotributista;11-6334-1122;cmendez.perifericos@yahoo.com;cmendez.provincia.ar;Banco Provincia
+6;DataStore Solutions;11-7001-3456;soporte@datastore.com;datastore.macro.ar;Banco Macro
+7;Pablo Fernández - Monotributista;11-2987-5432;pfernandez.impresoras@gmail.com;pfernandez.itau.ar;Banco Itaú
+8;NotebookCity SA;11-8745-9922;ventas@notebookcity.com;notebookcity.hsbc.ar;HSBC Argentina
+9;NetLink Proveedores;11-3210-8888;contacto@netlink.com.ar;netlink.credicoop.ar;Banco Credicoop
+10;Laura Benítez - Monotributista;11-6002-7171;lbenitez.cables@hotmail.com;lbenitez.supervielle.ar;Banco Supervielle

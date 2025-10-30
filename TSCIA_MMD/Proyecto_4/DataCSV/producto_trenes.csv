@@ -1,0 +1,11 @@
+ID;Nombre;Tipo;AñoEntradaServicio;Fabricante;ConfiguraciónRuedas;Escala;NivelDetalle;Material;PrecioUSD;id_fabricante_maqueta;AñoLanzamientoMaqueta;EstadoColeccionismo;IncluyeSonidoLuz;CantStockActual
+1;UP 844;Vapor;1944;American Locomotive Company;4-8-4;1:87;Premium;Metal;1199.99;1;2018;Edición Exclusiva;Sí;26
+2;UP 4014 Big Boy;Vapor;1941;American Locomotive Company;4-8-8-4;1:48;Premium;Mixto;899.99;2;2020;Edición Especial;Sí;20
+3;UP 3985 Challenger;Vapor;1943;American Locomotive Company;4-6-6-4;1:87;Intermedio;Plástico;189.99;3;2015;Edición Regular;No;45
+4;C&O Allegheny #1601;Vapor;1941;Lima Locomotive Works;2-6-6-6;1:160;Alto;Metal;429.99;1;2019;Edición Limitada;Sí;30
+5;DDA40X Centennial;Diesel;1971;Electro-Motive Diesel;8-8;1:87;Intermedio;Mixto;279.99;3;2017;Edición Regular;No;30
+6;Baldwin DE-12-8-1500;Diesel;1946;Baldwin;4-8-8-4;1:160;Básico;Plástico;129.99;2;2014;Descontinuado;No;40
+7;EMD DD35A;Diesel;1963;Electro-Motive Diesel;8-8;1:87;Básico;Plástico;149.99;3;2011;Descontinuado;No;20
+8;PRR GG1 #4800;Eléctrica;1934;Baldwin/General Electric;4-6-6-4;1:87;Alto;Mixto;389.99;2;2016;Edición Limitada;Sí;30
+9;Amtrak AEM-7;Eléctrica;1978;ASEA/ABB;4-4;1:87;Básico;Plástico;179.99;2;2013;Descontinuado;No;15
+10;EMD E60CP;Eléctrica;1972;General Electric;6-6;1:48;Premium;Metal;549.99;1;2019;Edición Limitada;Sí;24
